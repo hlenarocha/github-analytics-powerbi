@@ -1,9 +1,9 @@
 # 🔷 GitHub Analytics Dashboard: De "Hello World" a Software Engineer
 
-Este projeto de Business Intelligence (BI) utiliza dados reais extraídos da **API do GitHub** para transformar um histórico técnico em uma narrativa visual de carreira[cite: 8, 117]. O dashboard analisa minha evolução como desenvolvedora entre janeiro de 2023 e fevereiro de 2026[cite: 9, 27].
+Este projeto de Business Intelligence (BI) utiliza dados reais extraídos da **API do GitHub** para transformar um histórico técnico em uma narrativa visual de carreira. O dashboard analisa minha evolução como desenvolvedora entre janeiro de 2023 e fevereiro de 2026.
 
 ## 🔹 Resumo do projeto
-O objetivo foi aplicar técnicas de **Storytelling** e **Data Analytics** sobre o meu próprio fluxo de trabalho, convertendo registros brutos de commits em insights de produtividade[cite: 8, 118].
+O objetivo foi aplicar técnicas de **Storytelling** e **Data Analytics** sobre o meu próprio fluxo de trabalho, convertendo registros brutos de commits em insights de produtividade.
 
 * **Total de Commits:** 592 
 * **Total de Repositórios:** 27 
