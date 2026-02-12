@@ -8,7 +8,7 @@ O objetivo foi aplicar técnicas de **Storytelling** e **Data Analytics** sobre 
 * **Total de Commits:** 592 
 * **Total de Repositórios:** 27 
 * **Data do 1º Commit:** 10/02/2023 (Initial commit).
-* **Pico de Produtividade:** Ano de 2025, com 9 projetos simultâneos. 
+* **Pico de Produtividade:** Ano de 2025. 
 
 ## 🔹 Stack 
 * **Data sourcing:** Extração de dados via REST API do GitHub (JSON)
